@@ -27,8 +27,3 @@ This project demonstrates managing a DevOps project using Git best practices:
 
 ---
 
-## Task Documentation
-
-Please see the `docs/` directory for task-related documentation.
-
----
